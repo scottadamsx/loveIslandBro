@@ -1,0 +1,304 @@
+{
+  "seasonLabel": "Love Island USA \u00b7 Season 8 (Fiji, 2026)",
+  "dataAsOf": "cast through July 3, 2026 \u2014 statuses are yours to set (no spoilers)",
+  "islanders": [
+    {
+      "id": "aniya-harvey",
+      "name": "Aniya Harvey",
+      "age": 23,
+      "hometown": "Tyrone, GA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "bryce-dettloff",
+      "name": "Bryce Dettloff",
+      "age": 29,
+      "hometown": "Honolulu, HI",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "kc-chandler",
+      "name": "KC Chandler",
+      "age": 23,
+      "hometown": "Fresno, CA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "kenzie-annis",
+      "name": "Kenzie Annis",
+      "age": 24,
+      "hometown": "Kennesaw, GA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "melanie-moreno",
+      "name": "Melanie Moreno",
+      "age": 24,
+      "hometown": "North Philadelphia, PA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "sincere-rhea",
+      "name": "Sincere Rhea",
+      "age": 25,
+      "hometown": "Cape May, NJ",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "trinity-tatum",
+      "name": "Trinity Tatum",
+      "age": 22,
+      "hometown": "Newport News, VA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "zach-georgiou",
+      "name": "Zach Georgiou",
+      "age": 26,
+      "hometown": "Birmingham, UK",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "kayda-bosse",
+      "name": "Kayda Bosse",
+      "age": 22,
+      "hometown": "Manchester, NH",
+      "entered": "Day 2",
+      "status": "villa"
+    },
+    {
+      "id": "corbin-mims",
+      "name": "Corbin Mims",
+      "age": 22,
+      "hometown": "Miami, FL",
+      "entered": "Day 5",
+      "status": "villa"
+    },
+    {
+      "id": "parmida-keshani",
+      "name": "Parmida Keshani",
+      "age": 27,
+      "hometown": "San Antonio, TX",
+      "entered": "Day 16",
+      "status": "villa"
+    },
+    {
+      "id": "tierra-davis",
+      "name": "Tierra Davis",
+      "age": 25,
+      "hometown": "Inglewood, CA",
+      "entered": "Day 16",
+      "status": "villa"
+    },
+    {
+      "id": "dylan-wrona",
+      "name": "Dylan Wrona",
+      "age": 24,
+      "hometown": "Naperville, IL",
+      "entered": "Day 17",
+      "status": "villa"
+    },
+    {
+      "id": "carl-schmidt",
+      "name": "Carl Schmidt",
+      "age": 28,
+      "hometown": "Denver, CO",
+      "entered": "Day 21",
+      "status": "villa"
+    },
+    {
+      "id": "amora-robinson",
+      "name": "Amora Robinson",
+      "age": 21,
+      "hometown": "Atlanta, GA",
+      "entered": "Day 21",
+      "status": "villa"
+    },
+    {
+      "id": "beatriz-hatz",
+      "name": "Beatriz Hatz",
+      "age": 25,
+      "hometown": "Lakewood, CO",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "sean-reifel",
+      "name": "Sean Reifel",
+      "age": 29,
+      "hometown": "Easton, PA",
+      "entered": "Day 1 (OG)",
+      "status": "villa"
+    },
+    {
+      "id": "gabriel-vasconcelos",
+      "name": "Gabriel Vasconcelos",
+      "age": 26,
+      "hometown": "Rio de Janeiro, Brazil",
+      "entered": "Day 2",
+      "status": "villa"
+    },
+    {
+      "id": "caleb-mcdaniel",
+      "name": "Caleb McDaniel",
+      "age": 21,
+      "hometown": "Asheboro, NC",
+      "entered": "Day 7",
+      "status": "villa"
+    },
+    {
+      "id": "jen-terry",
+      "name": "Jen Terry",
+      "age": 23,
+      "hometown": "Melbourne, FL",
+      "entered": "Day 7",
+      "status": "villa"
+    },
+    {
+      "id": "sol-dean",
+      "name": "Sol Dean",
+      "age": 24,
+      "hometown": "Orange, CA",
+      "entered": "Day 7",
+      "status": "villa"
+    },
+    {
+      "id": "alannah-keyser",
+      "name": "Alannah Keyser",
+      "age": 21,
+      "hometown": "Miami, FL",
+      "entered": "Day 16",
+      "status": "villa"
+    },
+    {
+      "id": "jaiden-bacciocco",
+      "name": "Jaiden Bacciocco",
+      "age": 22,
+      "hometown": "Newbury Park, CA",
+      "entered": "Day 16",
+      "status": "villa"
+    },
+    {
+      "id": "sydney-eugene",
+      "name": "Sydney Eugene",
+      "age": 25,
+      "hometown": "Naples, FL",
+      "entered": "Day 16",
+      "status": "villa"
+    },
+    {
+      "id": "gal-tshnieder",
+      "name": "Gal Tshnieder",
+      "age": 29,
+      "hometown": "Houston, TX",
+      "entered": "Day 17",
+      "status": "villa"
+    },
+    {
+      "id": "chandlar-wilson",
+      "name": "Chandlar Wilson",
+      "age": 26,
+      "hometown": "Oklahoma City, OK",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "chay-nehra",
+      "name": "Chay Nehra",
+      "age": 27,
+      "hometown": "San Diego, CA",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "corey-sawyer",
+      "name": "Corey Sawyer Jr.",
+      "age": 24,
+      "hometown": "Longwood, FL",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "keyon-harry",
+      "name": "Keyon Harry",
+      "age": 26,
+      "hometown": "North Babylon, NY",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "kyle-greene",
+      "name": "Kyle Greene",
+      "age": 26,
+      "hometown": "Tampa, FL",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "ronnie-gunter",
+      "name": "Ronnie Gunter",
+      "age": 25,
+      "hometown": "New York, NY",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "ryan-ten-hulscher",
+      "name": "Ryan Ten Hulscher",
+      "age": 27,
+      "hometown": "Silver City, NM",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "tino-ellis",
+      "name": "Tino Ellis",
+      "age": 28,
+      "hometown": "Queens, NY",
+      "entered": "Casa Amor",
+      "status": "villa"
+    },
+    {
+      "id": "trae-taylor",
+      "name": "Trae Taylor",
+      "age": 23,
+      "hometown": "Missoula, MT",
+      "entered": "Casa Amor",
+      "status": "villa"
+    }
+  ],
+  "couples": [
+    [
+      "zach-georgiou",
+      "kayda-bosse"
+    ],
+    [
+      "kenzie-annis",
+      "dylan-wrona"
+    ],
+    [
+      "melanie-moreno",
+      "sincere-rhea"
+    ],
+    [
+      "tierra-davis",
+      "kc-chandler"
+    ],
+    [
+      "trinity-tatum",
+      "bryce-dettloff"
+    ],
+    [
+      "aniya-harvey",
+      "carl-schmidt"
+    ]
+  ]
+}

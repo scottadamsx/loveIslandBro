@@ -1,0 +1,5 @@
+node_modules
+dist
+photo-review
+.DS_Store
+*.local
